@@ -206,7 +206,7 @@ For a real retailer such as CPP Farm Store, preparing accurate business informat
 
 ## GitHub Pages
 
-[View Published Report](PASTE-YOUR-GITHUB-PAGES-URL-HERE)
+[View Published Report](<https://kebachez.github.io/OACP-W06-Google-Merchant-Center/>)
 
 ## GitHub Repository
 
